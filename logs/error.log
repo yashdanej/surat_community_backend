@@ -1,0 +1,1520 @@
+2026-07-05T06:09:21.753Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:09:24.455Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:09:27.256Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:09:42.674Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:42.685Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:42.795Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:42.999Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:43.313Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:43.720Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:44.262Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:44.905Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:45.886Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:45.891Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:45.998Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:46.215Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:46.524Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:46.932Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:47.445Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:48.051Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:48.772Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:49.581Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:50.489Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:51.504Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:52.610Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:53.824Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:55.135Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:56.540Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:58.052Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:09:59.671Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:01.381Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:03.191Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:05.102Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:07.115Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:09.228Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:11.435Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:13.743Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:16.157Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:18.661Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:21.275Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:23.984Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:26.790Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:29.708Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:32.724Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:35.733Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:38.746Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:41.764Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:44.784Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:47.799Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:50.815Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:53.825Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:56.844Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:10:59.859Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:02.877Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:05.897Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:08.911Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:11.921Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:14.939Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:17.946Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:20.954Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:23.980Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:26.987Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:30.004Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:33.015Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:11:36.026Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:15:37.630Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:38.994Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:40.306Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:41.619Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:43.367Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:45.926Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:50.104Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:15:57.423Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:16:11.251Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:16:37.746Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:17:29.937Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:18:30.982Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:21:57.839Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:22:00.548Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:22:41.707Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:22:42.824Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:22:43.979Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:22:45.298Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:22:47.076Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:22:49.589Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:22:53.798Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:26:28.904Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:26:30.177Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:26:31.435Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:26:32.838Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:26:34.607Z [ERROR] Failed to start server ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+Error: ENOENT: no such file or directory, open '/app/src/lua/tokenBucket.lua'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1252:14)
+    at async loadLuaScript (file:///app/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///app/dist/index.js:20:9)
+2026-07-05T06:31:10.387Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:31:12.520Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:31:14.542Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:31:16.771Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:33:01.920Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:04.642Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:31.227Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:33.945Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:36.745Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:39.660Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:42.679Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:45.796Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:48.998Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:52.316Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:55.718Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:33:59.218Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:34:02.838Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:37:59.563Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:01.712Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:24.598Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:26.546Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:28.670Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:30.895Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:33.543Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:36.905Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:38:41.943Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:9:9)
+    at async startServer (file:///app/dist/index.js:21:9)
+2026-07-05T06:43:03.721Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:06.422Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:32.364Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:35.090Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:37.902Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:40.818Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:43.850Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:43:46.962Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:47:31.449Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:10:9)
+    at async startServer (file:///app/dist/index.js:22:9)
+2026-07-05T06:47:33.403Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:10:9)
+    at async startServer (file:///app/dist/index.js:22:9)
+2026-07-05T06:47:35.297Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:10:9)
+    at async startServer (file:///app/dist/index.js:22:9)
+2026-07-05T06:47:37.408Z [ERROR] Database connection failed Error connecting to database: TypeError: fetch failed
+NeonDbError: Error connecting to database: TypeError: fetch failed
+    at dr.execute (file:///app/node_modules/@neondatabase/serverless/index.mjs:1292:95)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initDB (file:///app/dist/index.js:10:9)
+    at async startServer (file:///app/dist/index.js:22:9)
+2026-07-05T06:49:58.526Z [ERROR] Socket closed unexpectedly
+Error: Socket closed unexpectedly
+    at Socket.<anonymous> (/app/node_modules/@redis/client/dist/lib/client/socket.js:271:33)
+    at Object.onceWrapper (node:events:634:26)
+    at Socket.emit (node:events:519:28)
+    at TCP.<anonymous> (node:net:347:12)
+2026-07-05T06:49:58.534Z [ERROR] connect ECONNREFUSED 172.19.0.2:6379
+Error: connect ECONNREFUSED 172.19.0.2:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+2026-07-05T06:51:53.615Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:51:56.331Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:51:59.154Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:52:02.074Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:52:05.085Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:52:08.175Z [ERROR] getaddrinfo ENOTFOUND redis
+Error: getaddrinfo ENOTFOUND redis
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2026-07-05T06:53:51.824Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:51.832Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:51.948Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:52.164Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:52.471Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:52.878Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:53.394Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:54.019Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:54.777Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:55.834Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:58.870Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:58.895Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:59.016Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:59.234Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:59.556Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:53:59.974Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:00.482Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:01.102Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:01.812Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:02.629Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:06.777Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:06.797Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:06.912Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:07.125Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:07.442Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:54:07.851Z [ERROR] ERR unknown command 'HELLO'
+Error: ERR unknown command 'HELLO'
+    at #decodeSimpleError (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:460:13)
+    at #decodeTypeValue (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:105:91)
+    at Decoder.write (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\RESP\decoder.js:75:38)
+    at RedisSocket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\index.js:587:37)
+    at RedisSocket.emit (node:events:524:28)
+    at Socket.<anonymous> (D:\Learn\01\surat_community\backend\new\node_modules\@redis\client\dist\lib\client\socket.js:274:38)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+2026-07-05T06:56:17.604Z [ERROR] Socket closed unexpectedly
+Error: Socket closed unexpectedly
+    at Socket.<anonymous> (/app/node_modules/@redis/client/dist/lib/client/socket.js:271:33)
+    at Object.onceWrapper (node:events:634:26)
+    at Socket.emit (node:events:519:28)
+    at TCP.<anonymous> (node:net:347:12)
+2026-07-05T06:56:30.800Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:30.837Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:30.942Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:31.148Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:31.453Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:31.858Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:32.362Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:32.967Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:33.671Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:34.476Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:35.380Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:36.385Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:37.490Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:38.694Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:39.997Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:41.401Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:42.906Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:44.511Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:46.215Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T06:56:48.020Z [ERROR] 
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1135:18)
+    at afterConnectMultiple (node:net:1716:7)
+2026-07-05T07:00:43.439Z [ERROR] Socket closed unexpectedly
+Error: Socket closed unexpectedly
+    at Socket.<anonymous> (/app/node_modules/@redis/client/dist/lib/client/socket.js:271:33)
+    at Object.onceWrapper (node:events:634:26)
+    at Socket.emit (node:events:519:28)
+    at TCP.<anonymous> (node:net:347:12)
+2026-07-05T07:00:43.450Z [ERROR] connect ECONNREFUSED 172.19.0.2:6379
+Error: connect ECONNREFUSED 172.19.0.2:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+2026-07-05T07:09:35.054Z [ERROR] Failed to start server ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+Error: ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async loadLuaScript (file:///D:/Learn/01/surat_community/backend/new/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///D:/Learn/01/surat_community/backend/new/dist/index.js:20:9)
+2026-07-05T07:09:39.426Z [ERROR] Failed to start server ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+Error: ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async loadLuaScript (file:///D:/Learn/01/surat_community/backend/new/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///D:/Learn/01/surat_community/backend/new/dist/index.js:22:9)
+2026-07-05T07:13:04.549Z [ERROR] Failed to start server ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+Error: ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async loadLuaScript (file:///D:/Learn/01/surat_community/backend/new/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///D:/Learn/01/surat_community/backend/new/dist/index.js:22:9)
+2026-07-05T07:13:09.977Z [ERROR] Failed to start server ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+Error: ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async loadLuaScript (file:///D:/Learn/01/surat_community/backend/new/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///D:/Learn/01/surat_community/backend/new/dist/index.js:22:9)
+2026-07-05T07:13:17.033Z [ERROR] Failed to start server ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+Error: ENOENT: no such file or directory, open 'D:\Learn\01\surat_community\backend\new\lua\tokenBucket.lua'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async loadLuaScript (file:///D:/Learn/01/surat_community/backend/new/dist/config/rateLimiter.js:6:20)
+    at async startServer (file:///D:/Learn/01/surat_community/backend/new/dist/index.js:22:9)
